@@ -1,6 +1,5 @@
-package com.livetell;
+package com.loopme;
 
-import fw.basic.data.GetTestDataProperties;
 import org.testng.annotations.Test;
 import java.net.MalformedURLException;
 
