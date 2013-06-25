@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite  name="UC 1 - Login" verbose="1" >
+
+    <test name="UC 1.2 - Login">
+        <classes>
+            <class name="com.livetell.LoginTests"/>
+        </classes>
+    </test>
+
+</suite>

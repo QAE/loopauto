@@ -1,6 +1,7 @@
-*.class
+.idea/
+target/
+*.iml
+log/
+chromedriver.log
+test-output/
 
-# Package Files #
-*.jar
-*.war
-*.ear
